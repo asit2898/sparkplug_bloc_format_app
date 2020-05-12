@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525781570348",
+    "firebase_url": "https://walmart-sparkplug.firebaseio.com",
+    "project_id": "walmart-sparkplug",
+    "storage_bucket": "walmart-sparkplug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525781570348:android:99afdf931b1365fc991289",
+        "android_client_info": {
+          "package_name": "com.example.sparkplugblocformat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525781570348-j1b2gs7aiku0irn9esnls1tlkhagvtj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQ3hNH-R0mvBcD3VB-vJfQDAUPXVW1Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525781570348-j1b2gs7aiku0irn9esnls1tlkhagvtj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
